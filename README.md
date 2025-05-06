@@ -1,5 +1,7 @@
 # 📚 Livraria Shelby - Banco de Dados Relacional
 
+> ⚠️ **ATENÇÃO:** Este projeto ainda está em construção. Atualizações e melhorias estão em andamento.
+
 Este projeto consiste na modelagem e implementação de um banco de dados relacional fictício para uma livraria chamada **Shelby**. A base foi construída utilizando **MySQL Workbench**, com o objetivo de praticar modelagem de dados, normalização, criação de rotinas SQL e futura integração com ferramentas de visualização como o **Power BI**.
 
 ---
@@ -8,14 +10,14 @@ Este projeto consiste na modelagem e implementação de um banco de dados relaci
 
 O banco é composto por várias entidades, representadas em arquivos `.sql`:
 
-- `livraria_shelby_cliente.sql`: Informações de clientes
-- `livraria_shelby_editora.sql`: Editoras registradas
-- `livraria_shelby_livro.sql`: Catálogo de livros
-- `livraria_shelby_estoque.sql`: Controle de estoque
-- `livraria_shelby_pedido.sql`: Pedidos realizados
-- `livraria_shelby_itempedido.sql`: Itens de cada pedido
-- `livraria_shelby_routines.sql`: Stored procedures e rotinas do sistema
-- `Livraria-Shelby.sql`: Script completo com todas as tabelas e dados
+- `livraria_shelby_cliente.sql`: Informações de clientes  
+- `livraria_shelby_editora.sql`: Editoras registradas  
+- `livraria_shelby_livro.sql`: Catálogo de livros  
+- `livraria_shelby_estoque.sql`: Controle de estoque  
+- `livraria_shelby_pedido.sql`: Pedidos realizados  
+- `livraria_shelby_itempedido.sql`: Itens de cada pedido  
+- `livraria_shelby_routines.sql`: Stored procedures e rotinas do sistema  
+- `Livraria-Shelby.sql`: Script completo com todas as tabelas e dados  
 
 ---
 
