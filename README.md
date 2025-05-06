@@ -51,3 +51,9 @@ JOIN livraria_shelby_itempedido AS item ON item.livro_id = livro.id
 GROUP BY livro.titulo
 ORDER BY total_vendido DESC
 LIMIT 5;
+
+
+
+👨‍💻 Desenvolvido por
+Vyttor Mendes
+📧 vyector@gmail.com
