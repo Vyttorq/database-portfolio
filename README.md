@@ -52,7 +52,7 @@ GROUP BY livro.titulo
 ORDER BY total_vendido DESC
 LIMIT 5;
 
-
+```
 
 👨‍💻 Desenvolvido por
 Vyttor Mendes
